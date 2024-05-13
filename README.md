@@ -1,5 +1,5 @@
 
-# ANGULAR: Prática aplicación LISTA de TAREAS
+# ANGULAR: Practica, App LISTA de TAREAS
 
 Este repositorio tiene una app web realizada con angular donde manipulamos tareas.
 
